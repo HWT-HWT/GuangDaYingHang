@@ -1,0 +1,226 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/User/User",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path" : "pages/highlights/highlights",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/wealth/wealth",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/activity/activity",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/gesture/gesture",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/Account/Account",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/AccountManagement/AccountManagement",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/Details/Details",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/transfer/transfer",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/remittance/remittance",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/RemittancePhone/RemittancePhone",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/TransferDetails/TransferDetails",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/loan/loan",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/property/property",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/Apply/Apply",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/Withdrawal/Withdrawal",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/LoanRecords/LoanRecords",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/RepaymentPlan/RepaymentPlan",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/RepaymentDetails/RepaymentDetails",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/MyLoan/MyLoan",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/CardDatali/CardDatali",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/TransferDetalis-Detalis/TransferDetalis-Detalis",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/InformationChange/InformationChange",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+			"iconWidth": "50rpx",
+			"fontSize": "25rpx",
+		// #ifdef APP  
+			"iconWidth": "30",
+			"fontSize": "12",
+		// #endif 
+		
+		"list":[
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"selectedIconPath": "static/tab_select_001.png",
+				"iconPath": "static/tab_unselect_001.png"
+			},
+			{
+				"pagePath": "pages/highlights/highlights",
+				"text": "看点",
+				"selectedIconPath": "static/tab_select_002.png",
+				"iconPath": "static/tab_unselect_002.png"
+			},
+			{
+				"pagePath": "pages/wealth/wealth",
+				"text": "财富",
+				"selectedIconPath": "static/tab_select_003.png",
+				"iconPath": "static/tab_unselect_003.png"
+			},
+			{
+				"pagePath": "pages/activity/activity",
+				"text": "活动",
+				"selectedIconPath": "static/tab_select_004.png",
+				"iconPath": "static/tab_unselect_004.png"
+			},
+			{
+				"pagePath": "pages/User/User",
+				"text": "我的",
+				"selectedIconPath": "static/tab_select_005.png",
+				"iconPath": "static/tab_unselect_005.png"
+			}
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/User/User",
+    "pages/highlights/highlights",
+    "pages/wealth/wealth",
+    "pages/activity/activity"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "iconWidth": "50rpx",
+    "fontSize": "25rpx",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "selectedIconPath": "static/tab_select_001.png",
+        "iconPath": "static/tab_unselect_001.png"
+      },
+      {
+        "pagePath": "pages/highlights/highlights",
+        "text": "看点",
+        "selectedIconPath": "static/tab_select_002.png",
+        "iconPath": "static/tab_unselect_002.png"
+      },
+      {
+        "pagePath": "pages/wealth/wealth",
+        "text": "财富",
+        "selectedIconPath": "static/tab_select_003.png",
+        "iconPath": "static/tab_unselect_003.png"
+      },
+      {
+        "pagePath": "pages/activity/activity",
+        "text": "活动",
+        "selectedIconPath": "static/tab_select_004.png",
+        "iconPath": "static/tab_unselect_004.png"
+      },
+      {
+        "pagePath": "pages/User/User",
+        "text": "我的",
+        "selectedIconPath": "static/tab_select_005.png",
+        "iconPath": "static/tab_unselect_005.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
