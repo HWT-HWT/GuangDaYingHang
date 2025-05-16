@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "occupy-vue": "/components/occupy",
+    "backtaber-vue": "/components/backtaber",
+    "title-vue": "/components/titleVue",
+    "list-view": "/components/ListView",
+    "loan-loan-page-vue": "/components/loan-LoanPage",
+    "loan-user-vue": "/components/Loan-User"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "z-tabs": "/uni_modules/z-tabs/components/z-tabs/z-tabs",
+    "occupy-vue": "/components/occupy",
+    "title-vue": "/components/titleVue",
+    "higlights-title-vue": "/components/higlights-title"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "z-tabs": "/uni_modules/z-tabs/components/z-tabs/z-tabs",
+    "home-title-vue": "/components/HomeTitle",
+    "list-view-vue": "/components/ListView",
+    "wealth-invest-vue": "/components/wealth-invest",
+    "title-vue": "/components/titleVue"
+  }
+}

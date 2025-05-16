@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "backtaber-vue": "/components/backtaber",
+    "occupy-vue": "/components/occupy",
+    "search-more-list-view-vue": "/components/SearchMore-ListView",
+    "select-data-vue": "/components/SelectData",
+    "title-vue": "/components/titleVue"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "z-tabs": "/uni_modules/z-tabs/components/z-tabs/z-tabs",
+    "backtaber-vue": "/components/backtaber",
+    "occupy-vue": "/components/occupy",
+    "debit-card-vue": "/components/DebitCard",
+    "credit-card-vue": "/components/CreditCard",
+    "other-cards-vue": "/components/OtherCards",
+    "friend-card-vue": "/components/FriendCard"
+  }
+}

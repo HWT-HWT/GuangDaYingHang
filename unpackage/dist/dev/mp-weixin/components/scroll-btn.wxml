@@ -1,0 +1,1 @@
+<view class="data-v-8a589652"><view class="scroll-view data-v-8a589652"><view class="Optimal-title-btn data-v-8a589652"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="Optimal-btn data-v-8a589652">{{''+item+''}}</view></block></view></view></view>

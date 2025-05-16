@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "title-vue": "/components/titleVue",
+    "occupy-vue": "/components/occupy",
+    "list-view-vue": "/components/ListView"
+  }
+}

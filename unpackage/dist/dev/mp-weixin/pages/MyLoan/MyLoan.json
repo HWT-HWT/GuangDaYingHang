@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "occupy-vue": "/components/occupy",
+    "backtaber-vue": "/components/backtaber",
+    "list-view-box-vue": "/components/ListView-box"
+  }
+}

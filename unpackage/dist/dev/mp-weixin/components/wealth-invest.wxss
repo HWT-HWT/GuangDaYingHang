@@ -1,0 +1,144 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.wealth-invest.data-v-67d2932c {
+  width: 90%;
+  background: #fff;
+  margin: 0 auto;
+  border-radius: 20rpx;
+  margin-top: 20rpx;
+  background-color: #fff;
+}
+.wealth-invest .invest-title.data-v-67d2932c {
+  height: 100rpx;
+  padding: 10rpx 20rpx;
+  line-height: 45rpx;
+}
+.wealth-invest .invest-title .title.data-v-67d2932c {
+  margin-top: 20rpx;
+  display: flex;
+  align-items: center;
+  font-size: 35rpx;
+}
+.wealth-invest .invest-title .title image.data-v-67d2932c {
+  width: 30rpx;
+  height: 30rpx;
+}
+.wealth-invest .invest-title ._p.data-v-67d2932c {
+  width: 100%;
+  font-size: 25rpx;
+  color: #888;
+}
+.wealth-invest .wealth-invest-textBox.data-v-67d2932c {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money.data-v-67d2932c {
+  padding: 20rpx;
+  margin-top: 20rpx;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .money-title.data-v-67d2932c {
+  margin: 0 auto;
+  font-size: 28rpx;
+  color: #666;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .money-title .uni-tag.data-v-67d2932c {
+  background-color: #eff6ff;
+  border-color: #eff6ff;
+  color: #2979ff;
+  font-weight: bold;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list.data-v-67d2932c {
+  margin: 0 auto;
+  padding-bottom: 20rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list .Optimal-list-left.data-v-67d2932c {
+  width: 45%;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list .Optimal-list-left .Optimal-list-left-MaxTitle.data-v-67d2932c {
+  font-size: 35rpx;
+  color: #c5663b;
+  font-weight: bold;
+  margin: 10rpx auto;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list .Optimal-list-left .Optimal-list-left-MiniTitle.data-v-67d2932c {
+  font-size: 23rpx;
+  color: #888;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list .Optimal-list-rigth.data-v-67d2932c {
+  flex: 1;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list .Optimal-list-rigth .Optimal-list-left-MaxTitle.data-v-67d2932c {
+  font-size: 30rpx;
+  margin: 10rpx auto;
+  padding: 0 15rpx;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list .Optimal-list-rigth .Optimal-list-left-MiniText.data-v-67d2932c {
+  font-size: 23rpx;
+  color: #888;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-list .Optimal-list-rigth .Optimal-list-left-MiniText text.data-v-67d2932c {
+  padding: 0 15rpx;
+  border-right: 1px solid #ccc;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-tisi.data-v-67d2932c {
+  width: 100%;
+  background-color: #fafafa;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-tisi .Optimal-tisi-text-icon.data-v-67d2932c {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10rpx;
+  padding: 10rpx;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-tisi .Optimal-tisi-text-icon .tisi-text.data-v-67d2932c {
+  width: 90%;
+  color: #888;
+  font-size: 23rpx;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-tisi .Optimal-tisi-text-icon .tisi-icon.data-v-67d2932c {
+  flex: 1;
+  -webkit-transform: rotateZ(90deg);
+          transform: rotateZ(90deg);
+  display: flex;
+  justify-content: center;
+  align-self: self-start;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-tisi .Optimal-tisi-text-icon .tisi-icon image.data-v-67d2932c {
+  width: 25rpx;
+  height: 25rpx;
+}
+.wealth-invest .wealth-invest-textBox .Optimal-money .Optimal-tisi ._p.data-v-67d2932c {
+  font-size: 23rpx;
+  color: #888;
+  padding: 0 10rpx 10rpx 10rpx;
+}
+

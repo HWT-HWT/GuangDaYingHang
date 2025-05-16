@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "z-tabs": "/uni_modules/z-tabs/components/z-tabs/z-tabs"
+  },
+  "component": true
+}

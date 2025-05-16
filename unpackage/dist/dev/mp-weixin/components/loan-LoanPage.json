@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "occupy-vue": "/components/occupy",
+    "backtaber-vue": "/components/backtaber",
+    "title-vue": "/components/titleVue",
+    "list-view": "/components/ListView"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "z-tabs": "/uni_modules/z-tabs/components/z-tabs/z-tabs",
+    "occupy-vue": "/components/occupy",
+    "backtaber-vue": "/components/backtaber"
+  }
+}

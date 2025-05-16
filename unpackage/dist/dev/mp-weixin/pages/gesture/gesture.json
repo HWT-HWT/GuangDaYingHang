@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "gesture-password": "/components/gzz-gesture/gesture-password",
+    "occupy-vue": "/components/occupy"
+  }
+}

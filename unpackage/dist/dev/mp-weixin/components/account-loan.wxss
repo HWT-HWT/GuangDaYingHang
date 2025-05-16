@@ -1,0 +1,172 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.AccountLoan.data-v-0608534b {
+  width: 100vw;
+}
+.AccountLoan .property-pie.data-v-0608534b {
+  width: 95%;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 20rpx;
+  padding: 30rpx 0;
+  border-radius: 20rpx;
+}
+.AccountLoan .property-pie .pie-Chart.data-v-0608534b {
+  width: 80px;
+  height: 80px;
+  border: 25px solid #356277;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.AccountLoan .property-pie .property-box.data-v-0608534b {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20rpx;
+}
+.AccountLoan .property-pie .property-box .Text.data-v-0608534b {
+  text-align: center;
+  padding: 20rpx 50rpx;
+}
+.AccountLoan .property-pie .property-box .Text .percentage.data-v-0608534b {
+  font-size: 30rpx;
+}
+.AccountLoan .property-pie .property-box .Text .SubText.data-v-0608534b {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.AccountLoan .property-pie .property-box .Text .SubText .box.data-v-0608534b {
+  width: 15rpx;
+  height: 15rpx;
+  background-color: #376172;
+  margin: 0 10rpx;
+  border-radius: 5rpx;
+}
+.AccountLoan .property-pie .property-box .Text .SubText ._span.data-v-0608534b {
+  font-size: 23rpx;
+}
+.AccountLoan .index-notice.data-v-0608534b {
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20rpx 0;
+  background-color: #fff;
+  margin-top: 30rpx;
+  border-radius: 20rpx;
+}
+.AccountLoan .index-notice .notice-text.data-v-0608534b {
+  padding: 0 20rpx;
+  display: flex;
+  align-items: center;
+  font-size: 30rpx;
+}
+.AccountLoan .index-notice .notice-text image.data-v-0608534b {
+  width: 60rpx;
+  height: 50rpx;
+}
+.AccountLoan .index-notice ._p.data-v-0608534b {
+  flex: 1;
+  font-size: 28rpx;
+  color: #555;
+}
+.AccountLoan .index-notice image.data-v-0608534b {
+  padding: 0 20rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+.AccountLoan .AccountLoan-User-Loan.data-v-0608534b {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 20rpx;
+}
+.AccountLoan .AccountLoan-User-Loan .User-Loan-box.data-v-0608534b {
+  background-color: #fff;
+  padding: 30rpx;
+  border-radius: 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.AccountLoan .AccountLoan-Card.data-v-0608534b {
+  width: 90%;
+  margin: 0 auto;
+}
+.AccountLoan .AccountLoan-Card .User-Card.data-v-0608534b {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  margin-top: 20rpx;
+  border-radius: 20rpx;
+  justify-content: space-between;
+}
+.AccountLoan .AccountLoan-Card .User-Card .Card-image.data-v-0608534b {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 20rpx;
+}
+.AccountLoan .AccountLoan-Card .User-Card .Card-image .image.data-v-0608534b {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 30rpx;
+}
+.AccountLoan .AccountLoan-Card .User-Card .Card-image .image image.data-v-0608534b {
+  width: 60rpx;
+  height: 50rpx;
+}
+.AccountLoan .AccountLoan-Card .User-Card .Card-image ._p.data-v-0608534b {
+  width: 100%;
+  font-size: 22rpx;
+  margin-top: 5rpx;
+}
+.AccountLoan .AccountLoan-Card .User-Card .btn.data-v-0608534b {
+  padding: 10rpx 15rpx;
+  border-radius: 50rpx;
+  font-size: 25rpx;
+  border: 1px solid;
+  color: #c7876e;
+  margin-right: 40rpx;
+}
+.AccountLoan .OtherCards-tisi.data-v-0608534b {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50rpx;
+}
+.AccountLoan .OtherCards-tisi ._p.data-v-0608534b {
+  color: #fd8d0a;
+  font-weight: bold;
+}
+.AccountLoan .OtherCards-tisi ._span.data-v-0608534b {
+  font-size: 25rpx;
+  color: #888;
+}
+

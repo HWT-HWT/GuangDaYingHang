@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "occupy-vue": "/components/occupy",
+    "list-view-vue": "/components/ListView",
+    "title-vue": "/components/titleVue",
+    "home-title-vue": "/components/HomeTitle",
+    "scroll-btn-vue": "/components/scroll-btn"
+  }
+}

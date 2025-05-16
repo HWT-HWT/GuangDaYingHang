@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "title-vue": "/components/titleVue",
+    "list-view": "/components/ListView"
+  }
+}

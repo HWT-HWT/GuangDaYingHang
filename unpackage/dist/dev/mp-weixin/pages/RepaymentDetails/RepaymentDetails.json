@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "occupy-vue": "/components/occupy",
+    "backtaber-vue": "/components/backtaber",
+    "y-steps": "/components/Y-Steps/Y-Steps",
+    "title-vue": "/components/titleVue"
+  }
+}

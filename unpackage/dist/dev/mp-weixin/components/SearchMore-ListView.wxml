@@ -1,0 +1,1 @@
+<view class="SearchMore-ListView data-v-78ecdaa8"><text style="{{'color:'+(color)+';'}}" class="data-v-78ecdaa8"><slot name="name"></slot></text><view class="_p data-v-78ecdaa8"><slot name="style"></slot></view></view>

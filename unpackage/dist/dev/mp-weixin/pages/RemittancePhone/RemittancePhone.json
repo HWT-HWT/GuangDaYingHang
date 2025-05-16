@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "transfer-body-vue": "/components/transfer-Body",
+    "occupy-vue": "/components/occupy",
+    "backtaber-vue": "/components/backtaber",
+    "title-vue": "/components/titleVue"
+  }
+}

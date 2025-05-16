@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "occupy-vue": "/components/occupy"
+  }
+}

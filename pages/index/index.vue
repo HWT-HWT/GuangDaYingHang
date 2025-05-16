@@ -303,6 +303,7 @@
 					index === 2 ? uni.navigateTo({
 						url:'/pages/transfer/transfer'
 					}) : ''
+					
 				}else{
 					uni.navigateTo({
 						url:'/pages/gesture/gesture'
@@ -312,6 +313,9 @@
 			GetIndex(index){
 				console.log(index);
 				if(uni.getStorageSync('account')){
+					index === 0 ? uni.navigateTo({
+						url:'/pages/deposit/deposit'
+					}) : ''
 					index === 2 ? uni.navigateTo({
 						url:'/pages/property/property'
 					}) : ''

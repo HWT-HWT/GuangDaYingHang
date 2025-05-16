@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "occupy-vue": "/components/occupy",
+    "backtaber-vue": "/components/backtaber",
+    "account-my-money-vue": "/components/account-MyMoney",
+    "account-loan-vue": "/components/account-loan"
+  }
+}

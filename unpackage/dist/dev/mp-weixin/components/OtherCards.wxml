@@ -1,0 +1,1 @@
+<view class="OtherCards"><view class="CreditCard-image"><image src="/static/Account-bg-1.png" mode></image></view><view class="Account-Add"><view class="btn">+ 添加新卡片</view></view><view class="OtherCards-tisi"><view class="_p">温馨提示:</view><label class="_span">他行账户签约跨行支付，可在手机银行部分生活场景使用。</label></view></view>

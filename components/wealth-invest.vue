@@ -1,8 +1,8 @@
 <template>
 	<view class="wealth-invest" :style="{ background: `url(${url})`,backgroundSize:'100%',backgroundRepeat:'no-repeat',backgroundColor:'#fff'}">
 		<view class="invest-title">
-			<view class="title">
-				{{title}} <image src="@/static/nine_search_right_arrow.png" mode=""></image>
+			<view class="title" :style="{color:color,fontSize:FontSize,fontWeight:fontWeight}">
+				{{title}} <image src="@/static/nine_search_right_arrow.png" v-if="icon" mode=""></image>
 			</view>
 			<p>{{SubTitle}}</p>
 		</view>
@@ -24,7 +24,7 @@
 					</view>
 				</view>
 				<view class="Optimal-tisi">
-					<view class="Optimal-tisi-text-icon">
+					<view class="Optimal-tisi-text-icon" v-if="item.prompt">
 						<view class="tisi-text">
 							{{item.prompt}}
 						</view>
@@ -59,6 +59,21 @@
 			},
 			SubTitle:{
 				type:String
+			},
+			icon:{
+				type:Boolean,
+				default:true
+			},
+			color:{
+				type:String,
+				default:'#000'
+			},
+			FontSize:{
+				type:String,
+				default:'35rpx'
+			},
+			fontWeight:{
+				type:String,
 			}
 		}
 	}
